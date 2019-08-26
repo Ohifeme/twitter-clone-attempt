@@ -1,0 +1,162 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding:0  20px;
+}
+.purple{
+
+}
+.woa{
+    
+}
+body{
+    font-family: sans-serif;
+}
+nav{
+    display: flex;
+    background-color:#e6e6e6;
+}
+.bod{
+    margin-top:15px;
+    display: flex;
+}
+ul li {
+    display: inline;
+}
+
+#right {
+    display: flex;
+    justify-content: space-between;
+}
+
+#right img {
+    width: 30px;
+    border-radius: 50%;
+    margin: 0 20px;
+}
+#divider{
+    height: 150px;
+    background-color: purple;
+}
+input{
+    background-color: #f2f2f2;
+    border-radius: 2rem;
+    padding: 0.4rem;
+}
+button{
+    background-color:white;
+    border: black 1px solid;
+    display: flex;
+    border-radius: 20px;
+    position: absolute;
+    top: 250px;
+    left: 1200px;
+}
+#right button{
+    background-color: purple;
+    color:white;
+    border-radius: 20px;
+}
+.cosss{
+    display: flex;
+    padding-left: 350px;
+}
+span:hover{
+    border-bottom: 4px solid purple;
+    cursor: pointer;
+    border-spacing: 4px 4px 4px 4px;
+}
+span{
+    padding: 5px;
+}
+#woa:hover{
+    margin-bottom: 2px;
+}
+.fem h1{
+    font-family: sans-serif;
+    margin-left: 5rem;
+    font-size: 24px;
+}
+.fem p{
+    font-size: 12px;
+    margin-left: 5rem;
+}
+#img{
+    display: flex;
+    margin-left: 4rem;
+    flex-flow: wrap;
+}
+#img img{
+    height: 70px;
+    width: 70px;
+    margin-left: 1rem;
+}
+h1{
+    padding:5px;
+}
+.tea{
+    display: flex;
+    padding: 10px;
+    margin-left: 50px;
+    background-color: white;
+    flex-flow: wrap;
+    width: 400px;
+}
+.te{
+    display: flex;
+    margin-left: 20px;
+    background-color: white;
+    height:600px;
+    color: white;
+}
+.tea h1{
+    font-size: 20px;
+}
+.im img{
+    height: 190px;
+    width: 160px;
+    border: 4px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 90px;
+}   
+#twitter-logo{
+    color: #3399ff;
+}
+.tea span{
+    display: flex;
+    flex-flow: wrap;
+}
+span.cure{
+    display: flex;
+    justify-content: flex-end;
+}
+.tea p{
+    font-size: 12px;
+    display: flex;
+    align-items: baseline;
+}
+span.opa{
+    font-size: 11px;
+    display: flex;
+    color: grey;
+}
+.tea img{
+    height:300px;
+    width: 400px;
+    border: none;
+    border-radius: 10%
+}
+.pad{
+    padding-bottom: 10px;
+}
+#errr header{
+    color:whitesmoke;
+    background-color: black;
+    text-align: center;
+    font-size: 11px;
+    height: 100px;
+}
